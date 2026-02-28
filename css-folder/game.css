@@ -82,6 +82,11 @@ div button {
   margin-top: 2.8rem;
 }
 
+  div h2 {
+    font-size: 1.3rem;
+    width: max-content;
+  }
+
 @media screen and (max-width: 635px) {
   div h2 {
     font-size: 1rem;
@@ -103,6 +108,7 @@ div button {
     height: 100vh;
   }
 }
+
 
 
 
