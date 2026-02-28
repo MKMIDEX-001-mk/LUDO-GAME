@@ -4,15 +4,16 @@
   box-sizing: border-box;
   color: white;
 }
-body {
+html, body {
   background-image: url("../images/blue.png");
   padding-top: 1.5rem;
-  height: 100vh;
+  min-height: 100dvh;
   display: flex;
   flex-direction: column;
   align-items: center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-color: #001e3c;
 }
 
 .container {
@@ -102,6 +103,7 @@ div button {
     height: 100vh;
   }
 }
+
 
 
 
